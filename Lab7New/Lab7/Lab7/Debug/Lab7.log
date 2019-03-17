@@ -1,0 +1,98 @@
+﻿  Lab7.cpp
+c:\users\drl\source\repos\lab7\lab7\repofile.h(26): warning C4018: '<': signed/unsigned mismatch
+  c:\users\drl\source\repos\lab7\lab7\repofile.h(21): note: while compiling class template member function 'void RepoFile<Resurse>::saveToFile(int)'
+  c:\users\drl\source\repos\lab7\lab7\service.h(57): note: see reference to function template instantiation 'void RepoFile<Resurse>::saveToFile(int)' being compiled
+  c:\users\drl\source\repos\lab7\lab7\service.h(56): note: while compiling class template member function 'void Service<Resurse>::saveToFile(int)'
+  c:\users\drl\source\repos\lab7\lab7\lab7.cpp(19): note: see reference to function template instantiation 'void Service<Resurse>::saveToFile(int)' being compiled
+  c:\users\drl\source\repos\lab7\lab7\lab7.cpp(17): note: see reference to class template instantiation 'Service<Resurse>' being compiled
+c:\users\drl\source\repos\lab7\lab7\repofile.h(52): warning C4018: '<': signed/unsigned mismatch
+c:\users\drl\source\repos\lab7\lab7\repofile.h(56): warning C4018: '<': signed/unsigned mismatch
+c:\users\drl\source\repos\lab7\lab7\repofile.h(71): warning C4018: '<': signed/unsigned mismatch
+c:\users\drl\source\repos\lab7\lab7\repofile.h(79): warning C4018: '<': signed/unsigned mismatch
+c:\users\drl\source\repos\lab7\lab7\repofile.h(89): warning C4018: '<': signed/unsigned mismatch
+c:\users\drl\source\repos\lab7\lab7\repofile.h(97): warning C4018: '<': signed/unsigned mismatch
+c:\users\drl\source\repos\lab7\lab7\repofile.h(39): warning C4101: 'c': unreferenced local variable
+c:\users\drl\source\repos\lab7\lab7\repofile.h(126): warning C4018: '<': signed/unsigned mismatch
+  c:\users\drl\source\repos\lab7\lab7\repofile.h(113): note: while compiling class template member function 'void RepoFile<Resurse>::loadFromFile(int)'
+  c:\users\drl\source\repos\lab7\lab7\service.h(62): note: see reference to function template instantiation 'void RepoFile<Resurse>::loadFromFile(int)' being compiled
+  Service.cpp
+  Ui.cpp
+c:\users\drl\source\repos\lab7\lab7\ui.cpp(76): warning C4018: '<': signed/unsigned mismatch
+c:\users\drl\source\repos\lab7\lab7\ui.cpp(169): warning C4018: '<': signed/unsigned mismatch
+c:\users\drl\source\repos\lab7\lab7\service.h(28): warning C4018: '<': signed/unsigned mismatch
+  c:\users\drl\source\repos\lab7\lab7\service.h(25): note: while compiling class template member function 'std::vector<T *,std::allocator<_Ty>> Service<T>::cautare(std::string,std::string)'
+          with
+          [
+              T=Resurse,
+              _Ty=Resurse *
+          ]
+  c:\users\drl\source\repos\lab7\lab7\ui.cpp(168): note: see reference to function template instantiation 'std::vector<T *,std::allocator<_Ty>> Service<T>::cautare(std::string,std::string)' being compiled
+          with
+          [
+              T=Resurse,
+              _Ty=Resurse *
+          ]
+  c:\users\drl\source\repos\lab7\lab7\ui.cpp(65): note: see reference to class template instantiation 'Service<Resurse>' being compiled
+c:\users\drl\source\repos\lab7\lab7\repofile.h(26): warning C4018: '<': signed/unsigned mismatch
+  c:\users\drl\source\repos\lab7\lab7\repofile.h(21): note: while compiling class template member function 'void RepoFile<T>::saveToFile(int)'
+          with
+          [
+              T=Resurse
+          ]
+  c:\users\drl\source\repos\lab7\lab7\service.h(57): note: see reference to function template instantiation 'void RepoFile<T>::saveToFile(int)' being compiled
+          with
+          [
+              T=Resurse
+          ]
+  c:\users\drl\source\repos\lab7\lab7\service.h(45): note: see reference to class template instantiation 'RepoFile<T>' being compiled
+          with
+          [
+              T=Resurse
+          ]
+  c:\users\drl\source\repos\lab7\lab7\service.h(43): note: while compiling class template member function 'void Service<Resurse>::addElem(T *)'
+          with
+          [
+              T=Resurse
+          ]
+  c:\users\drl\source\repos\lab7\lab7\ui.cpp(65): note: see reference to function template instantiation 'void Service<Resurse>::addElem(T *)' being compiled
+          with
+          [
+              T=Resurse
+          ]
+c:\users\drl\source\repos\lab7\lab7\repofile.h(52): warning C4018: '<': signed/unsigned mismatch
+c:\users\drl\source\repos\lab7\lab7\repofile.h(56): warning C4018: '<': signed/unsigned mismatch
+c:\users\drl\source\repos\lab7\lab7\repofile.h(71): warning C4018: '<': signed/unsigned mismatch
+c:\users\drl\source\repos\lab7\lab7\repofile.h(79): warning C4018: '<': signed/unsigned mismatch
+c:\users\drl\source\repos\lab7\lab7\repofile.h(89): warning C4018: '<': signed/unsigned mismatch
+c:\users\drl\source\repos\lab7\lab7\repofile.h(97): warning C4018: '<': signed/unsigned mismatch
+c:\users\drl\source\repos\lab7\lab7\repofile.h(39): warning C4101: 'c': unreferenced local variable
+c:\users\drl\source\repos\lab7\lab7\repofile.h(126): warning C4018: '<': signed/unsigned mismatch
+  c:\users\drl\source\repos\lab7\lab7\repofile.h(113): note: while compiling class template member function 'void RepoFile<T>::loadFromFile(int)'
+          with
+          [
+              T=Resurse
+          ]
+  c:\users\drl\source\repos\lab7\lab7\service.h(62): note: see reference to function template instantiation 'void RepoFile<T>::loadFromFile(int)' being compiled
+          with
+          [
+              T=Resurse
+          ]
+c:\users\drl\source\repos\lab7\lab7\repository.h(24): warning C4018: '<': signed/unsigned mismatch
+  c:\users\drl\source\repos\lab7\lab7\repository.h(22): note: while compiling class template member function 'void Repository<T>::update(T *,T *)'
+          with
+          [
+              T=Resurse
+          ]
+  c:\users\drl\source\repos\lab7\lab7\service.h(37): note: see reference to function template instantiation 'void Repository<T>::update(T *,T *)' being compiled
+          with
+          [
+              T=Resurse
+          ]
+  c:\users\drl\source\repos\lab7\lab7\repofile.h(12): note: see reference to class template instantiation 'Repository<T>' being compiled
+          with
+          [
+              T=Resurse
+          ]
+c:\users\drl\source\repos\lab7\lab7\repository.h(32): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  Lab7.vcxproj -> C:\Users\DRL\source\repos\Lab7\Debug\Lab7.exe

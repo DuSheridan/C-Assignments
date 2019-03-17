@@ -1,0 +1,67 @@
+﻿  Lab6.cpp
+c:\users\daniel\desktop\po\lab6\lab6\repository.h(18): error C2723: 'Repository<T>::add_elem': 'virtual' specifier illegal on function definition
+          with
+          [
+              T=Produs
+          ]
+  c:\users\daniel\desktop\po\lab6\lab6\repository.h(18): note: while compiling class template member function 'void Repository<T>::add_elem(T &)'
+          with
+          [
+              T=Produs
+          ]
+  c:\users\daniel\desktop\po\lab6\lab6\repofile.h(48): note: see reference to function template instantiation 'void Repository<T>::add_elem(T &)' being compiled
+          with
+          [
+              T=Produs
+          ]
+  c:\users\daniel\desktop\po\lab6\lab6\repofile.h(9): note: see reference to class template instantiation 'Repository<T>' being compiled
+          with
+          [
+              T=Produs
+          ]
+  c:\users\daniel\desktop\po\lab6\lab6\lab6.cpp(12): note: see reference to class template instantiation 'RepoFile<Produs>' being compiled
+  ctrl.cpp
+c:\users\daniel\desktop\po\lab6\lab6\ctrl.cpp(35): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\daniel\desktop\po\lab6\lab6\ctrl.cpp(47): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\daniel\desktop\po\lab6\lab6\ctrl.cpp(60): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\daniel\desktop\po\lab6\lab6\ctrl.cpp(75): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\daniel\desktop\po\lab6\lab6\repository.h(18): error C2723: 'Repository<T>::add_elem': 'virtual' specifier illegal on function definition
+          with
+          [
+              T=Produs
+          ]
+  c:\users\daniel\desktop\po\lab6\lab6\repository.h(18): note: while compiling class template member function 'void Repository<T>::add_elem(T &)'
+          with
+          [
+              T=Produs
+          ]
+  c:\users\daniel\desktop\po\lab6\lab6\repofile.h(48): note: see reference to function template instantiation 'void Repository<T>::add_elem(T &)' being compiled
+          with
+          [
+              T=Produs
+          ]
+  c:\users\daniel\desktop\po\lab6\lab6\repofile.h(9): note: see reference to class template instantiation 'Repository<T>' being compiled
+          with
+          [
+              T=Produs
+          ]
+  c:\users\daniel\desktop\po\lab6\lab6\ctrl.cpp(11): note: see reference to class template instantiation 'RepoFile<Produs>' being compiled
+  teste.cpp
+c:\users\daniel\desktop\po\lab6\lab6\teste.cpp(17): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\daniel\desktop\po\lab6\lab6\teste.cpp(37): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\daniel\desktop\po\lab6\lab6\repository.h(18): error C2723: 'Repository<Produs>::add_elem': 'virtual' specifier illegal on function definition
+  c:\users\daniel\desktop\po\lab6\lab6\repository.h(18): note: while compiling class template member function 'void Repository<Produs>::add_elem(T &)'
+          with
+          [
+              T=Produs
+          ]
+  c:\users\daniel\desktop\po\lab6\lab6\teste.cpp(28): note: see reference to function template instantiation 'void Repository<Produs>::add_elem(T &)' being compiled
+          with
+          [
+              T=Produs
+          ]
+  c:\users\daniel\desktop\po\lab6\lab6\teste.cpp(26): note: see reference to class template instantiation 'Repository<Produs>' being compiled
+  Ui.cpp
+c:\users\daniel\desktop\po\lab6\lab6\ui.cpp(51): warning C4018: '<': signed/unsigned mismatch
+c:\users\daniel\desktop\po\lab6\lab6\ui.cpp(67): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
